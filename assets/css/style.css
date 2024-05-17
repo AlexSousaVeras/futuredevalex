@@ -172,11 +172,10 @@ header {
     color:white;
     font-size:25px;
     text-align: center;
-    text-decoration:none;
     background-color:green;
     display:flexbox;
     padding:10px 20px;
-    border-radius: 15px;
+    border-radius: 5px;
     border-color: green;
 }    
 
@@ -185,4 +184,26 @@ header {
     color: rgba(26, 229, 26, 0.4);
     border-color: rgba(26, 229, 26, 0.4);
     cursor: pointer;
+}
+
+/*Inicio dos códigos dos projetos*/
+
+.calculaprint {
+    background-image: url('printcalculator.png');
+    background-size: cover;
+    border-radius: 0;
+    width: 460px;
+    height: 260px;
+    box-shadow: px 3px 10px rgba(26, 229, 26, 0.4)0;
+}
+.btnRep {
+    background: rgba(26, 229, 26, 0.4);
+    color: black;
+    width: 460px;
+    height: 30px;
+}
+
+a, #strong2 {
+    text-decoration: none;
+    color: black;
 }
