@@ -183,23 +183,20 @@ header {
     background: rgb(0, 0, 0);
     color: rgba(26, 229, 26, 0.4);
     border-color: rgba(26, 229, 26, 0.4);
-    cursor: pointer;
 }
 
 /*Inicio dos códigos dos projetos*/
 
 .calculaprint {
     background-image: url('printcalculator.png');
-    background-size: cover;
-    border-radius: 0;
-    width: 460px;
+    width: 400px;
     height: 260px;
-    box-shadow: px 3px 10px rgba(26, 229, 26, 0.4)0;
+    box-shadow: px 3px 10px rgba(26, 229, 26, 0.4);
 }
 .btnRep {
     background: rgba(26, 229, 26, 0.4);
     color: black;
-    width: 460px;
+    width: 400px;
     height: 30px;
 }
 
