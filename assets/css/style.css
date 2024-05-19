@@ -204,3 +204,8 @@ a, #strong2 {
     text-decoration: none;
     color: black;
 }
+
+#strong2:hover {
+    color: white;
+}
+
