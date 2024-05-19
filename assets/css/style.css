@@ -30,9 +30,9 @@ header {
 .circul-img {
     background-image: url('foto-my.jpg');
     background-size: cover;
-    border-radius: 50%;
-    width: 260px;
-    height: 260px;
+    border-radius: 20% 2% ;
+    width: 200px;
+    height: 200px;
     box-shadow: px 3px 10px rgba(26, 229, 26, 0.4)0;;
 }
 
