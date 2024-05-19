@@ -198,6 +198,7 @@ header {
     color: black;
     width: 400px;
     height: 30px;
+    cursor: pointer;
 }
 
 a, #strong2 {
