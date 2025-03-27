@@ -8,8 +8,8 @@ body {
 }
 
 li {
-    style-list: none;
-}
+    list-style: none;
+}    
 
 .texto {
     margin: 10px;
