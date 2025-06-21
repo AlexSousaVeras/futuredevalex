@@ -191,8 +191,7 @@ header {
 
 /*Inicio dos códigos dos projetos*/
 
-.calculaprint {
-    background-image: url('printcalculator.png');
+.imgDosSites {
     width: 400px;
     height: 260px;
     box-shadow: px 3px 10px rgba(26, 229, 26, 0.4);
